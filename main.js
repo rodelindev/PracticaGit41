@@ -5,3 +5,4 @@ const trabajo = "Programador";
 const grupo = "Cinta Roja A";
 const school = "DEV.F";
 const profesor = "Gera";
+const date = new Date();
